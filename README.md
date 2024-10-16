@@ -1,1 +1,1 @@
-# Mail-demo
+# TEMPLATE
